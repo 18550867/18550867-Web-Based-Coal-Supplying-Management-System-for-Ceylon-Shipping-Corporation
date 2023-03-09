@@ -31,3 +31,8 @@ To import tables from the project database, the developer uses a web browser to 
 
 #Database Details
 The hostname is localhost, the username is root, no password is given, and the database name is project.
+
+#Login Details
+Procurement Manager - Username:USR00000001 - Password:11111111
+Chartering Manager - Username:USR00000001 - Password:22222222
+System Administrator - Username:USR00000001 - Password:33333333
